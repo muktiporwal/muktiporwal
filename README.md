@@ -5,9 +5,8 @@
 
 <!-- Typing Animation -->
 <div align="center">
-<img src="https://demolab.com!+I'm+Mukti+Porwal;+AI+x+ML+Explorer;+3rd+Year+CSE+Student;+Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukti+Porwal;AI+and+ML+Explorer;Open+Source+Enthusiast;DSA+Problem+Solver;3rd+Year+CSE+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
-
 <br/>
 
 ---
@@ -51,8 +50,6 @@ I am a **3rd Year B.Tech CSE Student** and an **AI Explorer** passionate about O
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFFF)
-
 </div>
 
 ---
@@ -61,19 +58,20 @@ I am a **3rd Year B.Tech CSE Student** and an **AI Explorer** passionate about O
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muktiporwal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muktiporwal&theme=black-ice&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
+<a href="https://github.com/muktiporwal">
+  <img width="49%" src="https://streak-stats.demolab.com?user=muktiporwal&theme=black-ice&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=ffffff" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktiporwal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=ffffff" />
+<a href="https://github.com/muktiporwal">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muktiporwal&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=ffffff" />
+</a>
 
 </div>
 
----
 
 ## 📈 Contribution Graph
 
@@ -94,7 +92,6 @@ I am a **3rd Year B.Tech CSE Student** and an **AI Explorer** passionate about O
 ## 🚀 Currently
 
 ```bash
-$ status --mukti
 
 🎓  Pursuing B.Tech in CSE (3rd Year)
 🤖  Exploring AI & ML concepts daily
