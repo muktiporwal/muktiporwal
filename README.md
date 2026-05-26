@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukti+Porwal+👋;AI+%26+ML+Explorer+🤖;Open+Source+Enthusiast+🌐;DSA+Problem+Solver+💡;3rd+Year+CSE+Student+🎓;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+<img src="https://demolab.com!+I'm+Mukti+Porwal;+AI+x+ML+Explorer;+3rd+Year+CSE+Student;+Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,22 +14,12 @@
 
 ## 🤖 About Me
 
-```python
-class MuktiPorwal:
-    def __init__(self):
-        self.name         = "Mukti Porwal"
-        self.role         = "3rd Year B.Tech CSE Student"
-        self.focus        = ["Artificial Intelligence", "Machine Learning", "DSA"]
-        self.interests    = ["Open Source", "AI Research", "Problem Solving"]
-        self.learning     = ["C++", "Deep Learning", "ML Algorithms"]
-        self.ask_me_about = ["Python", "AI/ML", "DSA", "Open Source"]
+I am a **3rd Year B.Tech CSE Student** and an **AI Explorer** passionate about Open Source and problem-solving. 
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = MuktiPorwal()
-me.say_hi()
-```
+* 🎯 **Current Focus:** Artificial Intelligence • Machine Learning • DSA
+* 💡 **Interests:** Open Source • AI Research • Problem Solving
+* 📚 **Learning:** C++ • Deep Learning • ML Algorithms
+* 💬 **Ask me about:** Python • AI/ML • DSA • Open Source
 
 ---
 
