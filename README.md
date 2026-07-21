@@ -33,12 +33,6 @@ I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Co
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql&perline=5"/>
 </p>
 
-## 🤖 AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&perline=3"/>
-</p>
-
 ## 🛠️ Backend & Tools
 
 <p align="center">
@@ -49,57 +43,41 @@ I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Co
 
 # 📌 Featured Projects
 
-## 🤖 AI Interview Preparation Platform
-
-An AI-powered interview platform where users can practice interviews and receive intelligent feedback.
-
-**Features**
-
-- JWT Authentication
-- Resume Upload
-- AI Generated Questions
-- AI Feedback
-- Interview Reports
-- Secure Backend APIs
-
-**Tech Stack**
-
-`FastAPI` `Python` `SQLite` `JWT` `React`
-
----
-
-## 🎙 Speech Emotion Recognition
-
-A deep learning project that detects human emotions from speech using modern AI models.
-
-**Tech Stack**
-
-`Python` `PyTorch` `HuBERT`
-
----
-
 ## 🌍 Carbon Emission Prediction
 
-Machine Learning model for predicting carbon emissions using regression techniques.
+A machine learning project for predicting carbon emissions using data preprocessing, feature engineering, and regression techniques.
 
 **Tech Stack**
 
-`Python` `Pandas` `NumPy` `Scikit-Learn`
+`Python` `Pandas` `NumPy`
 
 ---
 
-## 💻 DSA Repository
+## 🎓 College Projects
 
-Collection of Data Structures & Algorithms problems solved from:
+A collection of academic projects demonstrating problem-solving, programming concepts, and practical implementations.
 
-- LeetCode
-- HackerRank
-- Striver A2Z
+**Tech Stack**
 
-Languages:
+`Python` `Java` `C++`
 
-- C++
-- Java
+---
+
+## 💻 Data Structures & Algorithms
+
+**Topics Covered**
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+- Searching & Sorting
+
+**Languages**
+
+`C++` `Java`
 
 ---
 
@@ -150,46 +128,11 @@ Languages:
 ```text
 ✓ C++
 ✓ Data Structures & Algorithms
-✓ FastAPI
 ✓ Machine Learning
 ✓ Deep Learning
 ✓ Backend Development
 ✓ Git & GitHub
-✓ Open Source
-✓ GATE CSE Preparation
 ```
-
----
-
-# 📈 Coding Journey
-
-```text
-Computer Science
-        │
-        ├── Data Structures & Algorithms
-        │
-        ├── Backend Development
-        │      ├── FastAPI
-        │      ├── REST APIs
-        │      └── Authentication
-        │
-        ├── Artificial Intelligence
-        │      ├── Machine Learning
-        │      ├── Deep Learning
-        │      └── Computer Vision
-        │
-        └── Cloud (Coming Soon 🚀)
-```
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"The best way to predict the future is to build it."**
-
-</p>
 
 ---
 
