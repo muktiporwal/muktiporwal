@@ -30,7 +30,7 @@ I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Co
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java&mysql=5"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql=5"/>
 </p>
 
 ## AI / ML
