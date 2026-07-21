@@ -30,19 +30,19 @@ I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Co
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql=5"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql&perline=5"/>
 </p>
 
-## AI / ML
+## 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4"/>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&perline=3"/>
 </p>
 
-## Backend & Tools
+## 🛠️ Backend & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/>
 </p>
 
 ---
