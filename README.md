@@ -18,12 +18,10 @@ I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Co
 
 ### 🌱 Currently Working On
 
-- 🤖 AI Interview Preparation Platform
+- 🤖 Full-Stack AI Application
 - 🧠 Learning Machine Learning & Deep Learning
-- ☁️ Backend Development using FastAPI
+- ☁️ Backend Development
 - 💻 Solving DSA in C++
-- 📚 Preparing for **GATE CSE 2027**
-- 🌍 Contributing to Open Source
 
 ---
 
@@ -32,7 +30,7 @@ I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Co
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,bash&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java&mysql=5"/>
 </p>
 
 ## AI / ML
