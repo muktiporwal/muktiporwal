@@ -1,39 +1,40 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:00FFFF&text=Mukti%20Porwal&fontSize=52&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20Progress%20|%20Backend%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:00FFFF&text=Mukti%20Porwal&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descColor=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Mukti+Porwal+👋;Building+AI+Applications;Backend+Developer+%7C+FastAPI+Learner;C%2B%2B+%7C+Python+%7C+Machine+Learning;Open+Source+Enthusiast;Preparing+for+GATE+CSE+2027;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mukti+Porwal+👋;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Learner;Always+Learning"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a **3rd Year B.Tech Computer Science student** passionate about building intelligent software and solving real-world problems through technology.
-
-I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Computer Science fundamentals** to create practical applications while continuously improving my problem-solving skills.
-
-### 🌱 Currently Working On
-
-- 🤖 Full-Stack AI Application
-- 🧠 Learning Machine Learning & Deep Learning
-- ☁️ Backend Development
-- 💻 Solving DSA in C++
+- 🎓 B.Tech Computer Science Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Passionate about Software Development
+- 🌱 Exploring Open Source
+- 🚀 Always Learning & Building
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql&perline=5"/>
 </p>
 
-## 🛠️ Backend & Tools
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3"/>
+</p>
+
+### Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/>
@@ -41,51 +42,31 @@ I enjoy combining **Artificial Intelligence**, **Backend Development**, and **Co
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Projects
 
-## 🌍 Carbon Emission Prediction
+### 🌍 Carbon Emission Prediction
 
-A machine learning project for predicting carbon emissions using data preprocessing, feature engineering, and regression techniques.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy`
+`Python` • `NumPy` • `Pandas`
 
 ---
 
-## 🎓 College Projects
+### 🎙️ Speech Emotion Recognition
 
-A collection of academic projects demonstrating problem-solving, programming concepts, and practical implementations.
-
-**Tech Stack**
-
-`Python` `Java` `C++`
+`Python` • `PyTorch`
 
 ---
 
-## 💻 Data Structures & Algorithms
+### 🛰️ Persistent Scene Change Detection (PSCDL Challenge)
 
-**Topics Covered**
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Searching & Sorting
-
-**Languages**
-
-`C++` `Java`
+`Python` • `PyTorch` • `DINOv2`
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muktiporwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muktiporwal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktiporwal&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -93,92 +74,51 @@ A collection of academic projects demonstrating problem-solving, programming con
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=muktiporwal&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muktiporwal&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muktiporwal&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-```text
-✓ C++
-✓ Data Structures & Algorithms
-✓ Machine Learning
-✓ Deep Learning
-✓ Backend Development
-✓ Git & GitHub
-```
-
----
-
-# 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/muktiporwal">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="mailto:muktiporwal2005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://github.com/muktiporwal">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/muktiporwal/muktiporwal/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
-
-# 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=muktiporwal&label=Profile+Views&color=00FFFF&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=muktiporwal&style=for-the-badge&label=Profile+Views&color=00FFFF"/>
 </p>
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FFFF,100:000000"/>
