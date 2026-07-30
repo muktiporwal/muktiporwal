@@ -1,131 +1,86 @@
-<!-- ========================= HEADER ========================= -->
+<h1 align="center">Hi 👋, I'm Mukti Porwal</h1>
+<h3 align="center">B.Tech CSE Student | Python & C++ | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:00FFFF&text=Mukti%20Porwal&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descColor=FFFFFF"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Mukti+Porwal+👋;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Problem+Solver;Always+Learning"/>
+  <a href="https://github.com/muktiporwal">
+    <img src="https://komarev.com/ghpvc/?username=muktiporwal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Passionate about Software Development
-- 🌱 Exploring Open Source
-- 🚀 Always Learning
+- 🎓 B.Tech Computer Science & Engineering (2024–2028)
+- 📍 Shri Mata Vaishno Devi University
+- 🌱 Currently working on AI and multimodal sentiment analysis
+- 💻 Interested in Artificial Intelligence, Computer Vision, and Software Development
+- 📫 Reach me at **muktiporwal2005@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql" />
-</p>
-
-### AI / ML
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,java,mysql" />
 </p>
 
 ### Tools
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
-## 🚀 Projects
-
-### 🌍 Carbon Emission Prediction
-
-`Python` • `NumPy` • `Pandas`
-
----
-
-### 🎙️ Speech Emotion Recognition
-
-`Python` • `PyTorch`
+### Libraries
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Tkinter
 
 ---
 
-### 🛰️ Persistent Scene Change Detection (PSCDL Challenge)
+## 📌 Projects
 
-`Python` • `PyTorch` • `DINOv2`
+### 🔹 Face Recognition Attendance System
+- Face recognition based attendance system using OpenCV, Haar Cascades and LBPH Face Recognizer.
+- Automated attendance marking with real-time facial detection.
+
+### 🔹 Smart Agriculture Monitoring System
+- IoT-based monitoring system using Arduino and ESP8266.
+- Wireless monitoring of soil and environmental parameters.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner — CXO Roundtable, Udyamistav'26, IIT Jammu
+- 🎤 University Representative — SKUAST Jammu (IoT Project)
+- ✈️ Participated in All India Vayu Sainik Camp (NCC)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muktiporwal&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktiporwal&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muktiporwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktiporwal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muktiporwal&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🌐 Connect with Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=muktiporwal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muktiporwal&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/muktiporwal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+<a href="https://linkedin.com/in/muktiporwal">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:muktiporwal2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-<a href="https://github.com/muktiporwal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/muktiporwal/muktiporwal/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=muktiporwal&style=for-the-badge&label=Profile+Views&color=00FFFF"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FFFF,100:000000"/>
 </p>
